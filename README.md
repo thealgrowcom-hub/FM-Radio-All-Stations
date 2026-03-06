@@ -49,7 +49,7 @@ A: Yes! The app features a highly customizable sleep timer and a stunning dark m
 Don't miss out on unlimited global entertainment. **[Download the APK directly from the Google Play Store via this link!](https://play.google.com/store/apps/details?id=com.thealgrow.fmradio)**
 
 <p align="center">
-  <img src="assets/FM Radio.png" width="150" alt="FM Radio App Logo">
+  <img src="assets/FM Radio.png" alt="FM Radio App Logo">
 </p>
 
 ---
