@@ -22,14 +22,14 @@ Discover over **100,000+ live radio stations** spanning the globe. Whether you'r
 ## ✨ Key Features & Specifications
 Built with a sleek, premium, and modern user interface, the app is engineered to provide the best auditory experience with robust performance.
 
+- **Ad-Free Experience 🚫:** Enjoy your music and talk shows without any annoying ad interruptions. A truly uninterrupted listing experience!
 - **Global Station Access 🌐:** Stream 1 Lakh+ worldwide channels seamlessly. Find top radio AM/FM channels from all over the world.
 - **Background Play & Notification Controls 🎵:** Continue listening while using other apps. Control playback directly from your lock screen or notification panel using native media sessions.
 - **Sleep Timer ⏲️:** Drift off to your favorite tunes. Set a fully custom sleep timer to stop playback automatically.
 - **Smart Search & Discovery 🔍:** Quickly find your favorite stations, genres, or global channels using our intelligent search powered by advanced cloud databases.
 - **Dark & Light Themes 🌗:** Premium design with auto-switching system themes, custom dark mode, and elegant UI accents to reduce eye strain.
 - **Favorites & Recent History ❤️:** Save top stations to your Favorites and quickly access your recently played or preferred channels.
-- **Cross-Platform Synchronization ☁️:** Powered by Firebase and Supabase for real-time station updates, dynamic configurations, and seamless lightning-fast streaming.
-- **Low Data Consumption & Robust Streaming 📡:** Optimized audio protocols (`just_audio`, `audio_service`, `rxdart`) for uninterrupted streaming even on slower internet connections with automatic reconnects.
+- **Low Data Consumption & Robust Streaming 📡:** Optimized audio protocols for uninterrupted streaming even on slower internet connections with automatic reconnects.
 - **Interactive Visualizer 🎶:** Beautiful animated playback visualizer when listening to stations.
 - **Share With Friends 📲:** Easily share your favorite radio station or the app itself with a single tap.
 - **User Requests & Support 🛠️:** Built-in screens to request missing stations or report playback issues directly to the developers.
@@ -37,7 +37,7 @@ Built with a sleek, premium, and modern user interface, the app is engineered to
 ## 🚀 Why Choose Our FM Radio App?
 
 **Q: What is the best free FM radio app for Android?**  
-A: Our FM रेडियो (FM Radio) app provides an unmatched experience by offering access to over 100,000 live radio stations globally. With a beautiful interface, intuitive controls, background play, and optimized low data usage, it stands out as the premier choice.
+A: Our FM रेडियो (FM Radio) app provides an unmatched experience by offering access to over 100,000 live radio stations globally. With an ad-free experience, a beautiful interface, intuitive controls, background play, and optimized low data usage, it stands out as the premier choice.
 
 **Q: How can I listen to global radio stations on my phone?**  
 A: Simply download our app from the Google Play Store. You can instantly search for and stream live AM/FM broadcast channels from any country in the world, 24/7. It's truly a pocket radio.
