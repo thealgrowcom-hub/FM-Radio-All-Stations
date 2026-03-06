@@ -34,7 +34,7 @@ Built with a sleek, premium, and modern user interface, the app is engineered to
 - **Share With Friends 📲:** Easily share your favorite radio station or the app itself with a single tap.
 - **User Requests & Support 🛠️:** Built-in screens to request missing stations or report playback issues directly to the developers.
 
-## 🚀 Why Choose Our FM Radio App? (AEO & SEO Optimized)
+## 🚀 Why Choose Our FM Radio App?
 
 **Q: What is the best free FM radio app for Android?**  
 A: Our FM रेडियो (FM Radio) app provides an unmatched experience by offering access to over 100,000 live radio stations globally. With a beautiful interface, intuitive controls, background play, and optimized low data usage, it stands out as the premier choice.
@@ -44,15 +44,6 @@ A: Simply download our app from the Google Play Store. You can instantly search 
 
 **Q: Does it have a Sleep Timer and Dark Mode?**  
 A: Yes! The app features a highly customizable sleep timer and a stunning dark mode perfectly tailored for night-time listening.
-
-## 🛠 Tech Stack (For Developers)
-The app is built upon the robust **Flutter** framework, ensuring a natively compiled, beautiful experience:
-- **Framework:** Flutter (Material 3 Design Guidelines)
-- **Audio Engine:** `just_audio`, `audio_service`, `audio_session` for flawless native playback.
-- **Backend Services:** `supabase_flutter` (Station Data), `firebase_core`, `cloud_firestore` (Dynamic Config)
-- **State Management:** Advanced reactive programming with `rxdart`
-- **Local Storage:** `shared_preferences`
-- **Other utilities:** `google_mobile_ads` (AdMob integration), `flutter_local_notifications`, `carousel_slider`.
 
 ## 📥 Download Now
 Don't miss out on unlimited global entertainment. **[Download the APK directly from the Google Play Store via this link!](https://play.google.com/store/apps/details?id=com.thealgrow.fmradio)**
