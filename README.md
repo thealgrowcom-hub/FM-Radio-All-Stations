@@ -22,7 +22,7 @@ Discover over **100,000+ live radio stations** spanning the globe. Whether you'r
 ## ✨ Key Features & Specifications
 Built with a sleek, premium, and modern user interface, the app is engineered to provide the best auditory experience with robust performance.
 
-- **Ad-Free Experience 🚫:** Enjoy your music and talk shows without any annoying ad interruptions. A truly uninterrupted listing experience!
+- **Near Ad-Free Experience 🚫:** Enjoy your music and talk shows with minimal interruptions—just a small banner at the top!
 - **Global Station Access 🌐:** Stream 1 Lakh+ worldwide channels seamlessly. Find top radio AM/FM channels from all over the world.
 - **Background Play & Notification Controls 🎵:** Continue listening while using other apps. Control playback directly from your lock screen or notification panel using native media sessions.
 - **Sleep Timer ⏲️:** Drift off to your favorite tunes. Set a fully custom sleep timer to stop playback automatically.
