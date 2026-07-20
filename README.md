@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/fmradio.png" width="150" alt="FM Radio App Logo">
+  <img src="assets/FM Radio All Stations.png" width="150" alt="FM Radio App Logo">
 </p>
 
 <h1 align="center">FM Radio - All Stations Live 📻</h1>
